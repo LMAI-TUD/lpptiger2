@@ -1,0 +1,12 @@
+matplotlib>=3.2.2
+natsort>=7.0.1
+numba>=0.53.1
+numpy>=1.20.0
+openpyxl>=3.0.3
+pandas>=1.0.4
+plotly>=5.1.0
+pymzml>=2.4.6
+pyside6>=6.1.2
+regex>=2020.6.8
+scipy>=1.4.1
+six>=1.16.0

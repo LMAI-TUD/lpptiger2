@@ -1,0 +1,13 @@
+,no_oxidation,hydroperoxyl,hydroxyl,keto,epoxy,aldehyde,carboxylic_acid
+SMILES,C/C=C/,C(OO)/C=C/,C(O)/C=C/,C(=O)/C=C/,C1C(O1)C,CC=O,CC(O)=O
+FRAG,C,C(OO),C(O),C(=O),C(=O),CC=O,CC(O)=O
+OXIDATIONLEVEL,1,1,1,1,1,1,1
+OAP,1,1,1,1,1,0,0
+OCP,0,0,0,0,0,1,1
+DB,1,1,1,1,1,0,0
+OH,0,0,1,0,0,0,0
+KETO,0,0,0,1,0,0,0
+CHO,0,0,0,0,0,1,0
+COOH,0,0,0,0,0,0,1
+EPOXY,0,0,0,0,1,0,0
+OOH,0,1,0,0,0,0,0
