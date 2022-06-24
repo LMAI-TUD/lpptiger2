@@ -1,6 +1,15 @@
 # LPPtiger 2
 
-![LPPtiger2_gui](doc/img/LPPtiger2_gui.png)
+![LPPtiger2_new_features](doc/img/LPPtiger2_new_features.jpg)
+
+[![GitHub license](https://img.shields.io/github/license/LMAI-TUD/lpptiger2?color=red&style=flat-square)](https://github.com/LMAI-TUD/lpptiger2/blob/main/LICENSE)
+![GitHub last commit](https://img.shields.io/github/last-commit/LMAI-TUD/lpptiger2?color=blue&style=flat-square)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/LMAI-TUD/lpptiger2/v2.0-beta/total?color=green&style=flat-square)
+
+[//]: # (![GitHub all releases]&#40;https://img.shields.io/github/downloads/LMAI-TUD/lpptiger2/total?color=green&style=flat-square&#41;)
+
+
+[Download the latest release ⬇](https://github.com/LMAI-TUD/lpptiger2/releases)
 
 ## About LPPtiger 2
 
@@ -10,7 +19,7 @@ Main functions:
 
 + Prediction of epilipidome
 
-+ in silico fragmentation of epilipids
++ *in silico* fragmentation of epilipids
 
 + Generation of inclusion list
 
@@ -18,9 +27,13 @@ Main functions:
 
 
 
-LPPtiger 2 provides user friendly intuitive graphic interface for multiple platforms including macOS (Apple silicon), Linux, and Windows (Win10, Win 11).
+LPPtiger 2 provides a user-friendly intuitive graphic interface for multiple platforms including macOS (Apple silicon), Linux, and Windows (Win10, Win 11).
 
+<img src="doc/img/LMAI_LPPtiger2_logo.png" alt="LPPtiger2_logo" style="zoom:10%;" />
 
+LPPtiger2 is developed based on the LPPtiger project (originally published in 2017):
+
+[https://github.com/SysMedOs/lpptiger](https://github.com/SysMedOs/lpptiger)
 
 ### License
 
@@ -77,3 +90,5 @@ LPPtiger 2 provides user friendly intuitive graphic interface for multiple platf
   + run LPPtiger 2 `python ./LPPtiger2.py`
   
   + the interface will show up 
+
+    ![LPPtiger2_gui](doc/img/LPPtiger2_gui.png)  
