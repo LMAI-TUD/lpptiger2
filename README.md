@@ -4,12 +4,29 @@
 
 [![GitHub license](https://img.shields.io/github/license/LMAI-TUD/lpptiger2?color=red&style=flat-square)](https://github.com/LMAI-TUD/lpptiger2/blob/main/LICENSE)
 ![GitHub last commit](https://img.shields.io/github/last-commit/LMAI-TUD/lpptiger2?color=blue&style=flat-square)
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/LMAI-TUD/lpptiger2/v2.0-beta/total?color=green&style=flat-square)
-
-[//]: # (![GitHub all releases]&#40;https://img.shields.io/github/downloads/LMAI-TUD/lpptiger2/total?color=green&style=flat-square&#41;)
+![GitHub all releases](https://img.shields.io/github/downloads/LMAI-TUD/lpptiger2/total?color=green&style=flat-square)
 
 
-[Download the latest release ⬇](https://github.com/LMAI-TUD/lpptiger2/releases)
+### [Check latest release ⬇](https://github.com/LMAI-TUD/lpptiger2/releases)
+
+### [Current release v2.0-beta](https://github.com/LMAI-TUD/lpptiger2/releases)
+
+#### Download .exe for Windows 10 or above (64bit only)
+
+  + [https://github.com/LMAI-TUD/lpptiger2/releases/download/v2.0-beta/LPPtiger2_win10_x64_exe.zip](https://github.com/LMAI-TUD/lpptiger2/releases/download/v2.0-beta/LPPtiger2_win10_x64_exe.zip)
+
+#### Download source code version for macOS (Apple silicon), Linux, and Windows (Win10, Win 11)
+
+  + [https://github.com/LMAI-TUD/lpptiger2/archive/refs/tags/v2.0-beta.tar.gz](https://github.com/LMAI-TUD/lpptiger2/archive/refs/tags/v2.0-beta.tar.gz)
+ + LPPtiger2 beta is developed using `Python 3.10` with `Anaconda` and `PyCharm Pro (Academic license)` 
+
+#### Download user guide
+
+  + [https://github.com/LMAI-TUD/lpptiger2/releases/download/v2.0-beta/LPPtiger2_user_guide.pdf](https://github.com/LMAI-TUD/lpptiger2/releases/download/v2.0-beta/LPPtiger2_user_guide.pdf)
+
+#### Download tutorial pack including sample dataset
+
+  + [https://github.com/LMAI-TUD/lpptiger2/releases/download/v2.0-beta/LPPtiger2_tutorial_pack.zip](https://github.com/LMAI-TUD/lpptiger2/releases/download/v2.0-beta/LPPtiger2_tutorial_pack.zip)
 
 ## About LPPtiger 2
 
