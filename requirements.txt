@@ -8,5 +8,6 @@ plotly>=5.1.0
 pymzml>=2.4.6
 pyside6>=6.1.2
 regex>=2020.6.8
+rdkit>=2022.3.4
 scipy>=1.4.1
 six>=1.16.0
