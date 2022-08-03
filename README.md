@@ -100,9 +100,31 @@ LPPtiger2 is developed based on the LPPtiger project (originally published in 20
   
   + install `anaconda` with Python 3.9 or 3.10
   
-  + in anaconda enviroment, go to the LPPtiger2 source code folder
+      + it is recommended to create a separate environment for LPPtiger2
+
+      + create an environment with name envtiger: `conda create -n envtiger python=3.10`
+      + following the command line guide to finish the environment setup
+      + activate environment envtiger: `conda activate envtiger`
+  
+  + in anaconda environment, go to the LPPtiger2 source code folder
   
   + install requirements using `pip install -r ./requirements.txt`
+
+    + optionally you can install following packages manually:
+
+      + `matplotlib`
+      + `natsort`
+      + `numba`
+      + `numpy`
+      + `openpyxl`
+      + `pandas`
+      + `plotly`
+      + `pymzml`
+      + `pyside6`
+      + `regex`
+      + `rdkit`
+      + `scipy`
+      + `six`
   
   + run LPPtiger 2 `python ./LPPtiger2.py`
   
