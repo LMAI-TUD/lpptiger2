@@ -9,15 +9,15 @@
 
 ### [Check latest release ⬇](https://github.com/LMAI-TUD/lpptiger2/releases)
 
-### [Current release v2.0-beta](https://github.com/LMAI-TUD/lpptiger2/releases)
+### [Current release v2.0-RC](https://github.com/LMAI-TUD/lpptiger2/releases)
 
 #### Download .exe for Windows 10 or above (64bit only)
 
-  + [https://github.com/LMAI-TUD/lpptiger2/releases/download/v2.0-beta/LPPtiger2_win10_x64_exe.zip](https://github.com/LMAI-TUD/lpptiger2/releases/download/v2.0-beta/LPPtiger2_win10_x64_exe.zip)
+  + [https://github.com/LMAI-TUD/lpptiger2/releases/download/v2.0-RC/LPPtiger2_RC_win10_x64_exe.zip](https://github.com/LMAI-TUD/lpptiger2/releases/download/v2.0-RC/LPPtiger2_RC_win10_x64_exe.zip)
 
 #### Download source code version for macOS (Apple silicon), Linux, and Windows (Win10, Win 11)
 
-  + [https://github.com/LMAI-TUD/lpptiger2/archive/refs/tags/v2.0-beta.tar.gz](https://github.com/LMAI-TUD/lpptiger2/archive/refs/tags/v2.0-beta.tar.gz)
+  + [https://github.com/LMAI-TUD/lpptiger2/archive/refs/tags/v2.0-RC.tar.gz](https://github.com/LMAI-TUD/lpptiger2/archive/refs/tags/v2.0-RC.tar.gz)
  + LPPtiger2 beta is developed using `Python 3.10` with `Anaconda` and `PyCharm Pro (Academic license)` 
 
 #### Download user guide
@@ -26,7 +26,7 @@
 
 #### Download tutorial pack including sample dataset
 
-  + [https://github.com/LMAI-TUD/lpptiger2/releases/download/v2.0-beta/LPPtiger2_tutorial_pack.zip](https://github.com/LMAI-TUD/lpptiger2/releases/download/v2.0-beta/LPPtiger2_tutorial_pack.zip)
+  + [https://github.com/LMAI-TUD/lpptiger2/releases/download/v2.0-RC/LPPtiger2_tutorial_pack.zip](https://github.com/LMAI-TUD/lpptiger2/releases/download/v2.0-RC/LPPtiger2_tutorial_pack.zip)
 
 ## About LPPtiger 2
 
